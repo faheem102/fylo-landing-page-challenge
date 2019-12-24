@@ -1,0 +1,111 @@
+body {
+font-family: "Open Sans"
+}
+h1 {
+  font-family: "Raleway";
+  font-size: 2rem;
+  font-weight: 700;
+}
+h3 {
+  font-size: 1rem;
+  font-weight: bold;
+  padding-top: 4%;
+}
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+#intro-section {
+  background-color: #fff;
+  padding: 3% 10% 14%;
+  position:relative;
+}
+#section2 {
+  background-color: hsl(240, 75%, 98%);
+  padding:0 10% 6%;
+}
+#section3 {
+  background-color:hsl(238, 22%, 44%);
+  padding:2% 10% 2%;
+color:#fff;
+}
+.navbar {
+}
+.nav-item {
+  font-family: "Raleway";
+  padding: 0 18px;
+  font-size: .75rem;
+  font-weight: 400;
+}
+.row {
+  padding:6% 0;
+}
+.section1-img {
+  width:80%;
+  position:absolute;
+  right:2%;
+}
+.curve-img {
+  position: absolute;
+  left:0px;
+  top:550px;
+  width: 100%;
+
+}
+.section2-img {
+  width:80%;
+  position: absolute;
+  right:2%;
+  top:10%;
+}
+.btn-link {
+  color: MediumSeaGreen !important;
+}
+.testimonial-section {
+  width:40%;
+  padding:1.5% 2%;
+  height: 30%;
+}
+.testimonial-description {
+  font-size: 0.85rem;
+  line-height: 1.5rem;
+}
+.kyle-img {
+  border-radius: 100%;
+  width:25%;
+  float: left;
+  padding:2% 3% 0 1%;
+}
+.kyle-proffesion {
+  font-size: 0.65rem;
+
+
+}
+.section3-text {
+  padding:0 6% 0 0;
+}
+.section3-form {
+  padding: 0 0 0 5%;
+}
+.container-fluid {
+  background-color:hsl(243, 87%, 12%);
+  color: #fff;
+  padding: 6% 0 0 3%;
+}
+.list-item {
+  list-style: none;
+  margin-bottom: 1rem;
+}
+.container-fluid li {
+
+  margin-bottom: 1rem;
+}
+.logo-end  {
+
+  position: absolute;
+  margin-top: 10px;
+}
+.social {
+  padding-right: 3%;
+}
